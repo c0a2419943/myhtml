@@ -9,3 +9,12 @@ h1{
 h2{
     font-size:1.5rem;
 }
+
+h1{
+    background-color: yellow;
+    color: blue;
+}
+h2{
+    background-color: green;
+    color: red;
+}
